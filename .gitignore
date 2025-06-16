@@ -1,2 +1,3 @@
-vendor/*
-composer.lock
+/ttfontdata
+/tmp
+/graph_cache
